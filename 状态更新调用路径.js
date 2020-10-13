@@ -11,7 +11,7 @@
     |
     v
 
-创建Update对象（接下来三节详解）
+创建Update对象（'updateContainer'）
 
     |
     |
